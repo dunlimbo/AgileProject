@@ -1,1 +1,12 @@
 C:\Users\Liam\Documents\Visual Studio 2013\Projects\AgileProjectManager\AgileProjectManager\bin\Debug\AgileProjectManager.exe.config
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\bin\Debug\AgileProjectManager.exe.config
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\bin\Debug\AgileProjectManager.exe
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\bin\Debug\AgileProjectManager.pdb
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.frmTemplate.resources
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.Properties.Resources.resources
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.csproj.GenerateResource.Cache
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.exe
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.pdb
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\bin\Debug\MaterialSkin.dll
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.frmMaterialTestTemplate.resources

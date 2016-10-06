@@ -41,9 +41,10 @@
             this.stWindowInfo.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.statlblLogin,
             this.statlblUsername});
-            this.stWindowInfo.Location = new System.Drawing.Point(0, 511);
+            this.stWindowInfo.Location = new System.Drawing.Point(0, 547);
             this.stWindowInfo.Name = "stWindowInfo";
-            this.stWindowInfo.Size = new System.Drawing.Size(1099, 22);
+            this.stWindowInfo.Padding = new System.Windows.Forms.Padding(1, 0, 16, 0);
+            this.stWindowInfo.Size = new System.Drawing.Size(1256, 22);
             this.stWindowInfo.TabIndex = 0;
             this.stWindowInfo.Text = "statusStrip1";
             // 
@@ -60,11 +61,11 @@
             // 
             // frmTemplate
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1099, 533);
+            this.ClientSize = new System.Drawing.Size(1256, 569);
             this.Controls.Add(this.stWindowInfo);
-            this.Font = new System.Drawing.Font("Roboto", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("MS Reference Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
