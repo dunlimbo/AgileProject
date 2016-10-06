@@ -18,6 +18,7 @@ namespace AgileProjectManager
             InitializeComponent();
 
             //create a new instance of the theme manager to save the colour scheme and other settings
+            //changing colours in the native property tab in the designer will CORRUPT THE FORM.
             var materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
