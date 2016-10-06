@@ -8,5 +8,4 @@ C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectMana
 C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.exe
 C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.pdb
 C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\bin\Debug\MaterialSkin.dll
-C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.csprojResolveAssemblyReference.cache
-C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.frmMaterialTestTemplate.resources
+C:\Users\Liam\Documents\GitHub\AgileProject\AgileProjectManager\AgileProjectManager\obj\Debug\AgileProjectManager.frmMaterialTemplate.resources

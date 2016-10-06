@@ -1,6 +1,6 @@
 ﻿namespace AgileProjectManager
 {
-    partial class frmMaterialTestTemplate
+    partial class frmMaterialTemplate
     {
         /// <summary>
         /// Required designer variable.
@@ -30,18 +30,17 @@
         {
             this.SuspendLayout();
             // 
-            // frmMaterialTestTemplate
+            // frmMaterialTemplate
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(702, 391);
-            this.Name = "frmMaterialTestTemplate";
+            this.ClientSize = new System.Drawing.Size(940, 485);
+            this.Name = "frmMaterialTemplate";
             this.Text = "Waterfall Systems: Project Manager";
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
     }
 }
